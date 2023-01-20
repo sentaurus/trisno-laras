@@ -1,0 +1,62 @@
+{
+	"data1": [
+		{
+			"img": "bonang.jpg",
+			"title": "Bonang",
+			"deskripsi": "Bonang adalah instrumen gamelan berbentuk ceret atau pot yang diletakan di atas string (tali) dalam bingkai kayu (rancak). Masing-masing pot kemudian memiliki poros cembung (pencon) di bagian atas sebagai pusat untuk dipukul. Bonang termasuk dalam keluar pencon yang merupakan alat musik dari logam dan berbentuk cekungan di bawahnya dengan poros cembung untuk dipukul. Bonang dalam set gamelan memiliki beberapa jenis, yaknii bonang penerus, barung, dan panembung. Cara bermain boning adalah memukul bagian cekungan atau penutupnya dengan tongkat pemukul khusus.",
+			"tag": "#4_Bonang"
+		},
+		{
+			"img": "demung.jpeg",
+			"title": "Demung",
+			"deskripsi": "Sama halnya dengan saron, demung juga masuk dalam golongan balungan dalam instrumen gamelan. Biasanya ada dua demung jenis pelog dan slendro dalam gamelan. Alat musik ini menghasilkan nada oktaf paling rendah dari golongan alat musik balungan lainnya meskipun ukuran fisiknya yang paling besar. Cara bermain demung serupa dengan saron hanya saja tabuh demung memiliki ukuran yang lebih besar dan berat daripada tabuh saron.",
+			"tag": "#3_Demung"
+		},
+		{
+			"img": "gambang.jpg",
+			"title": "Gambang",
+			"deskripsi": "Sekilas gambang mirip dengan saron dan demung, namun bilahan alat musik ini terbuat dari kayu atau bambu untuk menghasilkan suara yang khas dan unik. Ada 18 bilah nada pada gambang yang terletak di atas sebuah rak konektor berbentuk perahu. Bilah-bilah tersebut tersusun berurutan dari bentuk bilah terkecil sampai yang paling panjang. Cara memainkan alat musik gambang adalah memukul tiap bilangnya menggunakan pemukul khusus yang disebut tabuh. Hampir serupa dengan saron dan demung, Grameds juga perlu memegang bilang setelah dipukul agar tidak meninggalkan suara.",
+			"tag": "#8_Gambang"
+		}
+	],
+	"data2": [
+		{
+			"img": "gender.jpg",
+			"title": "Gender",
+			"deskripsi": "Gender adalah intrumen gamelan Jawa dan Bali dari bahan logam yang dipukul setiap bilahnya. Ada 10 sampai 14 bilah pada alat musik gender yang terbuat dari kuningan yang kemudian digantung pada berkas diatas resonator bamboo atau seng. Cara memainkan alat musik ini adalah memukul tiap bilahnya dengan alat pemukul khus yakni tabuh kayu (Bali) atau berlapis kain (Jawa). Dalam satu set gamelan lengkap, ada tiga jenis gender yang digunakan, yakni  slendro, pelog pathet nem lan lima, dan pelog pathet barang.",
+			"tag": "#10_Gender"
+		},
+		{
+			"img": "gong.jpg",
+			"title": "Gong",
+			"deskripsi": "Hampir serupa dengan bonang dan kenong, gong juga memiliki bentuk cembung di bagian atas dengan ukuran yang lebih besar dan posisinya digantung, tidak diletakan pada lapisan tertentu. Menyerupai bentuk piringan besar, gong terbuat dari leburan logam seperti perunggu dan tembaga untuk menghasilkan suara yang khas. Cara memainkan alat musik ini dipukul bagian kecembungannya menggunakan tongkat khusus.",
+			"tag": "#6_Gong"
+		},
+		{
+			"img": "kempul.jpeg",
+			"title": "Kempul",
+			"deskripsi": "Kempul adalah instrumen gamelan yang ditabuh yang hampir serupa dengan gong tetapi memiliki ukuran yang lebih kecil. Cara bermainnya pun sama dengan gong yakni dipukul dengan tongkat khusu. Meskipun kempul masuk dalam keluarga alat musik  pencon, namun kempul bisa dimainkan dengan nada seperti musik balungan dan bisa juga mendahului nada balungan.",
+			"tag": "#7_Kempul"
+		}
+	],
+	"data3": [
+		{
+			"img": "kenong.jpg",
+			"title": "Kenong",
+			"deskripsi": "Kenong juga masuk dalam keluarga pencon seperti boning dalam instrumen gamelan. Perbedaan Nya, kenong memiliki bentuk fisik lebih gemuk dari alat musik pencon lainnya. Kenong kemudian diletakan pada pangkon dari kayu yang beralas tali agar tidak menghambat getaran kenong saat ditabuh. Alat musik ini menghasilkan suara yang rendah namun tetap nyaring dengan timbre yang khas. Cara memainkan kenong serupa dengan memainkan bonang dengan memukul menggunakan tongkat khusus di bagian cekungan atau benjolan kenong.",
+			"tag": "#5_Kenong"
+		},
+		{
+			"img": "saron.jpg",
+			"title": "Saron",
+			"deskripsi": "Saron atau biasa dikenal juga dengan ricik adalah salah satu instrumen gamelan yang masuk dalam golongan balungan atau alat musik jenis bilahan (wilahan) dari logam. Saron memiliki 6 atau 7 (1 oktaf) bilahan logam yang ditumpangkan di atas bingkai kayu yang berfungsi sebagai resonator. Biasanya ada 4 saron dalam gamelan dengan jenis laras pelog dan slendro. Cara memainkan alat musik saron adalah memukul bilahan logam menggunakan tabuhan tangan kanan dan menahan bilahan yang dipukul sebelumnya menggunakan tangan kiri agar menghilangkan suara dengungan yang tersisa. Cara ini biasa disebut dengan teknik memahat atau memencet.",
+			"tag": "#2_Saron"
+		},
+		{
+			"img": "slenthem.jpg",
+			"title": "Slenthem",
+			"deskripsi": "Alat musik slenthem adalah salah satu intrumen gamelan yang masuk dalam keluarga balungan seperti saron dan demung. Alat musik ini menghasilkan dengungan nada yang rendah atau menggema mengikuti nada instrumen alat musik balungan yang lain. Dalam satu set gamelan biasanya ada slenthem versi slendro dengan rentang nada C, D, E, G, A, C, dan pelog dengan rentan nada C hingga B.",
+			"tag": "#9_Slenthem"
+		}
+	]
+}
