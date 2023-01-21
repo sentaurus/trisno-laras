@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"title": "Telepon",
+			"data": "+6281359468408",
+			"warna": "primary",
+			"click": "tel:+6281359468408"
+		},
+		{
+			"title": "WhatsApp",
+			"data": "+62895419061100",
+			"warna": "success",
+			"click": "https://wa.me/62895419061100"
+		},
+		{
+			"title": "Email",
+			"data": "test@gmail.com",
+			"warna": "error",
+			"click": "mailto: test@gmail.com"
+		},
+		{
+			"title": "Maps",
+			"data": "Trisno Laras",
+			"warna": "warning",
+			"click": "https://www.google.co.id/maps/place/Mbah+Goiman+Gong/@-7.8882964,111.4608583,21z/data=!4m5!3m4!1s0x2e799fedd7dc5def:0xe71e7df0ba68bd17!8m2!3d-7.8883176!4d111.4610148"
+		}
+	]
+}
