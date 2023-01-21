@@ -30,8 +30,8 @@ const Item = ({ data }) => (
 	</Grid>
 );
 
-const Produk = ({ produk }) => (
-	<Box id='#produk' ref={produk}>
+const Produk = ({ gamelan }) => (
+	<Box id='#produk' ref={gamelan}>
 		<Divider />
 		<Grid container alignItems='center' sx={{ px: 3 }}>
 			<Grid item sm={1} xs={6}>

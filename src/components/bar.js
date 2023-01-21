@@ -14,14 +14,14 @@ const Bar = ({ scroll }) => {
 						Home
 					</Typography>
 				</Link>
-				<Link onClick={() => click(scroll.produk)} underline='none' sx={{ mr: 2 }}>
+				<Link onClick={() => click(scroll.gamelan)} underline='none' sx={{ mr: 2 }}>
 					<Typography fontSize={15} fontWeight={400} color={orange[200]}>
-						Produk
+						Gamelan
 					</Typography>
 				</Link>
 				<Link onClick={() => click(scroll.alamat)} underline='none'>
 					<Typography fontSize={15} fontWeight={400} color={orange[200]}>
-						Hubungi kami
+						Kontak
 					</Typography>
 				</Link>
 				<Box flex={1} />
