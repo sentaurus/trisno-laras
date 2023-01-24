@@ -1,4 +1,4 @@
-import { Box, Card, CardContent, CardMedia, Divider, Grid, Typography } from '@mui/material';
+import { Box, Card, CardContent, CardMedia, Chip, Divider, Grid, Typography } from '@mui/material';
 import React from 'react';
 import data from '../data/produk.json';
 import Lottie from 'lottie-react';
@@ -14,7 +14,10 @@ const Item = ({ data }) => (
 					<Card elevation={5} sx={{ borderRadius: 3 }}>
 						<CardMedia component='img' src={require(`../assets/produk/${item.img}`)} />
 						<CardContent>
-							<Typography fontWeight={900}>{item.title}</Typography>
+							<Grid container justifyContent='space-between'>
+								<Typography fontWeight={900}>{item.title}</Typography>
+								<Chip onClick={() => (window.location.href = 'https://wa.me/62895419061100')} label='cek harga' size='small' color='warning' clickable />
+							</Grid>
 							<Typography color={grey[500]} variant='caption'>
 								https://www.gramedia.com/literasi/alat-musik-gamelan/{item.tag}
 							</Typography>
