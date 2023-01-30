@@ -8,7 +8,7 @@ import { CssBaseline } from '@mui/material';
 const root = createRoot(document.getElementById('root'));
 
 const theme = createTheme({
-	// palette: { mode: 'dark' },
+	palette: { mode: 'dark' },
 	typography: { fontFamily: ['Roboto', 'sans-serif'].join(',') },
 });
 
